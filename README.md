@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/10b11207-83a4-4952-a4e7-b6c049bbb4bf)<h1 align="center">Hi 👋, I'm Sair Islam Roni</h1>
+<h1 align="center">Hi 👋, I'm Sair Islam Roni</h1>
 <h3 align="center">A passionate frontend developer & Computer Engineer from Bangladesh</h3>
-<img align="right" alt="coding" wodth="400" scr="https://github.com/user-attachments/assets/3fff0ad7-eb05-4c7b-98f6-22cb67d5d26c">
+<img align="right" alt="coding" wodth="400" scr="https://github.com/user-attachments/assets/10b11207-83a4-4952-a4e7-b6c049bbb4bf">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairbd&label=Profile%20views&color=0e75b6&style=flat" alt="sairbd" /> </p>
 
